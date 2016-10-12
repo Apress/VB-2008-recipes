@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<EmployeeRoster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LastUpdated>2007-10-27</LastUpdated>
+  <Employees>
+    <Employee id="1">
+      <Name>Joed McCormick</Name>
+      <Title>Airline Pilot</Title>
+      <LastUpdated>2007-10-02</LastUpdated>
+      <HourlyRate>100</HourlyRate>
+    </Employee>
+    <Employee id="2">
+      <Name>Kai Nakamura</Name>
+      <Title>Super Genius</Title>
+      <LastUpdated>1997-10-27</LastUpdated>
+      <HourlyRate>999.99</HourlyRate>
+    </Employee>
+    <Employee id="3">
+      <Name>Romi Doshi</Name>
+      <Title>Actress</Title>
+      <LastUpdated>2006-07-27</LastUpdated>
+      <HourlyRate>120</HourlyRate>
+    </Employee>
+    <Employee id="4">
+      <Name>Leah Clooney</Name>
+      <Title>Molecular Biologist</Title>
+      <LastUpdated>2006-12-27</LastUpdated>
+      <HourlyRate>100.75</HourlyRate>
+    </Employee>
+  </Employees>
+</EmployeeRoster>

@@ -1,0 +1,15 @@
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\bin\Release\Recipe13-09.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\bin\Release\Recipe13-09.pdb
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\bin\Release\Recipe13-09.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\bin\Release\Interop.MSMask.dll
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\bin\Release\AxInterop.MSMask.dll
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\ResolveAssemblyReference.cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Interop.MSMask.dll
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\AxInterop.MSMask.dll
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Recipe13-09.vbproj.ResolveComReference.cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Apress.VisualBasicRecipes.Chapter13.Resources.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Apress.VisualBasicRecipes.Chapter13.Recipe13_09.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Recipe13-09.vbproj.GenerateResource.Cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Recipe13-09.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Recipe13-09.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter13\Recipe13-09\obj\Release\Recipe13-09.pdb

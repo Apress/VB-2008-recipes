@@ -1,0 +1,8 @@
+﻿# In this sample log file, comments start with a # character. The
+# parser, when configured correctly, will ignore these lines.
+
+11/24/2007 9:31:19 PM,INFO,"Some informational text."
+11/24/2007 9:31:19 PM,WARN,"Some warning message."
+11/24/2007 9:31:19 PM,ERR!,"[ERROR] Some exception has occurred."
+11/24/2007 9:31:19 PM,INFO,"More informational text."
+11/24/2007 9:31:19 PM,ERR!,"[ERROR] Some exception has occurred."

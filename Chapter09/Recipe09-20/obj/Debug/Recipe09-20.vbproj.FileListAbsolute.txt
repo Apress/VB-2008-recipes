@@ -1,0 +1,5 @@
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-20\bin\Debug\Recipe09-20.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-20\bin\Debug\Recipe09-20.pdb
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-20\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-20\obj\Debug\Recipe09-20.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-20\obj\Debug\Recipe09-20.pdb

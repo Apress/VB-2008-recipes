@@ -1,0 +1,9 @@
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\bin\Debug\Recipe11-13Client.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\bin\Debug\Recipe11-13Client.pdb
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\bin\Debug\Recipe11-13Client.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\obj\Debug\Resources.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\obj\Debug\Recipe11-13Client.vbproj.GenerateResource.Cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\obj\Debug\Recipe11-13Client.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\obj\Debug\Recipe11-13Client.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter11\Recipe11-13Client\obj\Debug\Recipe11-13Client.pdb

@@ -1,0 +1,11 @@
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\obj\Release\ResolveAssemblyReference.cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\obj\Release\Apress.VisualBasicRecipes.Chapter09.Resources.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\obj\Release\Apress.VisualBasicRecipes.Chapter09.Recipe09_06.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\obj\Release\Recipe09-06.vbproj.GenerateResource.Cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\bin\Release\Recipe09-06.exe.config
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\bin\Release\Recipe09-06.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\bin\Release\Recipe09-06.pdb
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\bin\Release\Recipe09-06.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\obj\Release\Recipe09-06.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\obj\Release\Recipe09-06.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter09\Recipe09-06\obj\Release\Recipe09-06.pdb

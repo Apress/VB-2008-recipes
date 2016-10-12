@@ -1,0 +1,3 @@
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter12\Recipe12-18\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter12\Recipe12-18\obj\Debug\Recipe12_18.Resources.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter12\Recipe12-18\obj\Debug\Recipe12-18.vbproj.GenerateResource.Cache

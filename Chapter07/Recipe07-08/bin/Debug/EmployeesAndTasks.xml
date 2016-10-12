@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee id="1">
+    <Name>Joed McCormick</Name>
+    <Title>Airline Pilot</Title>
+    <HireDate>09/29/2007</HireDate>
+    <HourlyRate>100</HourlyRate>
+    <Tasks>
+      <Task id="1">
+        <Name>Task 1</Name>
+        <Description>Description of Sample Task 1</Description>
+        <Status>Closed</Status>
+      </Task>
+      <Task id="2">
+        <Name>Task 2</Name>
+        <Description>Description of Sample Task 2</Description>
+        <Status>Closed</Status>
+      </Task>
+      <Task id="3">
+        <Name>Task 3</Name>
+        <Description>Description of Sample Task 3</Description>
+        <Status>Closed</Status>
+      </Task>
+      <Task id="4">
+        <Name>Task 4</Name>
+        <Description>Description of Sample Task 4</Description>
+        <Status>Closed</Status>
+      </Task>
+    </Tasks>
+  </Employee>
+  <Employee id="2">
+    <Name>Kai Nakamura</Name>
+    <Title>Super Genius</Title>
+    <HireDate>10/24/1997</HireDate>
+    <HourlyRate>999.99</HourlyRate>
+    <Tasks>
+      <Task id="1">
+        <Name>Task 1</Name>
+        <Description>Description of Sample Task 1</Description>
+        <Status>Open</Status>
+      </Task>
+      <Task id="2">
+        <Name>Task 2</Name>
+        <Description>Description of Sample Task 2</Description>
+        <Status>Open</Status>
+      </Task>
+    </Tasks>
+  </Employee>
+  <Employee id="3">
+    <Name>Romi Doshi</Name>
+    <Title>Actress</Title>
+    <HireDate>07/24/2006</HireDate>
+    <HourlyRate>120</HourlyRate>
+    <Tasks>
+      <Task id="1">
+        <Name>Task 1</Name>
+        <Description>Description of Sample Task 1</Description>
+        <Status>Open</Status>
+      </Task>
+      <Task id="2">
+        <Name>Task 2</Name>
+        <Description>Description of Sample Task 2</Description>
+        <Status>Closed</Status>
+      </Task>
+    </Tasks>
+  </Employee>
+  <Employee id="4">
+    <Name>Leah Clooney</Name>
+    <Title>Molecular Biologist</Title>
+    <HireDate>12/24/2006</HireDate>
+    <HourlyRate>100.75</HourlyRate>
+    <Tasks />
+  </Employee>
+</Employees>

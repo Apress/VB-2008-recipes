@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- Define the Employee Complex type-->
+  <xsd:complexType name="Employee">
+    <xsd:sequence>
+      <xsd:element name="Name" type="xsd:string" />
+      <xsd:element name="Title" type="xsd:string" />
+      <xsd:element name="HireDate" type="xsd:date" />
+      <xsd:element name="HourlyRate" type="xsd:decimal" />
+    </xsd:sequence>
+    <xsd:attribute name="id" type="xsd:integer" />
+  </xsd:complexType>
+  <!-- This is the structure that the document must match -->
+  <xsd:element name="Employees">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Employee" type="Employee" maxOccurs="unbounded" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

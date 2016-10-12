@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" >
+  <ItemGroup>
+    <SourceFile Include="ConsoleUtils.vb" />
+    <SourceFile Include="HelloWorld.vb" />
+  </ItemGroup>
+  <Target Name="TestBuild" Inputs="" >
+    <Vbc TargetType="exe" MainEntryPoint="Apress.VisualBasicRecipes.Chapter01.HelloWorld" OutputAssembly ="HelloWorld.exe" Sources="@(SourceFile)" />
+  </Target>
+</Project>

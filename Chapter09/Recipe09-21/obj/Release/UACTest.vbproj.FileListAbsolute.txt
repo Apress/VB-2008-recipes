@@ -1,0 +1,3 @@
+C:\Users\Gandalf\AppData\Local\Temporary Projects\UACTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gandalf\AppData\Local\Temporary Projects\UACTest\obj\Release\UACTest.Resources.resources
+C:\Users\Gandalf\AppData\Local\Temporary Projects\UACTest\obj\Release\UACTest.vbproj.GenerateResource.Cache

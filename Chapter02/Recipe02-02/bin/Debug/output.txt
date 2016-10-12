@@ -1,0 +1,6 @@
+Source Text:  Area = Πr^2
+UTF-16 Bytes:  41-00-72-00-65-00-61-00-20-00-3D-00-20-00-A0-03-72-00-5E-00-32-00
+UTF-8 Bytes:  41-72-65-61-20-3D-20-CE-A0-72-5E-32
+ASCII Bytes:  41-72-65-61-20-3D-20-3F-72-5E-32
+UTF-8 Text:  Area = Πr^2
+ASCII Text:  Area = ?r^2

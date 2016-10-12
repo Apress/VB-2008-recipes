@@ -1,0 +1,5 @@
+;String resource file for Recipe01-05
+UserPrompt=Please enter your name:
+FormTitle=Visual Basic 2008 Recipes
+Message=Welcome to Visual Basic 2008 Recipes, 
+ButtonCaption=Enter

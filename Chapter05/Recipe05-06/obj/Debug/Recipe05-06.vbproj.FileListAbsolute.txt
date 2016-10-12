@@ -1,0 +1,10 @@
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\bin\Debug\Recipe05-06.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\bin\Debug\Recipe05-06.pdb
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\bin\Debug\Recipe05-06.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\obj\Debug\DirectoryTree.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\obj\Debug\Resources.resources
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\obj\Debug\Recipe05-06.vbproj.GenerateResource.Cache
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\obj\Debug\Recipe05-06.exe
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\obj\Debug\Recipe05-06.xml
+F:\Programming\Visual Studio 2008\Visual Basic 2008 Recipes\Chapter05\Recipe05-06\obj\Debug\Recipe05-06.pdb

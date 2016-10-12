@@ -1,0 +1,4 @@
+"1","Joed McCormick","Airline Pilot","09/29/2007","100"
+"2","Kai Nakamura","Super Genius","10/24/1997","999.99"
+"3","Romi Doshi","Actress","07/24/2006","120"
+"4","Leah Clooney","Molecular Biologist","12/24/2006","100.75"

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee id="1">
+    <Name>Joed McCormick</Name>
+    <HireDate>2007-09-29</HireDate>
+    <HourlyRate>100</HourlyRate>
+  </Employee>
+  <Employee id="1" badAttribute="bad" >
+    <Name>Kai Nakamura</Name>
+    <Title>Super Genius</Title>
+    <HireDate>10/24/1997</HireDate>
+    <HourlyRate>999.99</HourlyRate>
+  </Employee>
+  <Employee id="3">
+    <Name>Romi Doshi</Name>
+    <Title>Actress</Title>
+    <HireDate>2006-07-24</HireDate>
+    <HourlyRate>120</HourlyRate>
+  </Employee>
+  <Employee id="4">
+    <Name>Leah Clooney</Name>
+    <Title>Molecular Biologist</Title>
+    <HireDate>2006-12-24</HireDate>
+    <HourlyRate>100.75</HourlyRate>
+  </Employee>
+  <Unknown />
+</Employees>
